@@ -89,9 +89,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/tayfunuenver/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/tayfunuenver/tayfunuenver/output/snake.svg" alt="Snake animation" />
-
-###
