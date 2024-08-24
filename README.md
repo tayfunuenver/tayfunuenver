@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋, I'm Tayfun, a full-stack developer and a part time student in business informatics</h2>
+<h2 align="left">Hi 👋, I'm Tayfun, a software developer and a student in business informatics</h2>
 
 
-- 🔭 I’m currently working on a [Library Managemt System](https://github.com/typhooncode-library-administration) <br>
-- 🌱 I’m currently improving my skills in backend and frontend and trying out different technologies <br> <br> 
+- 🔭 I’m currently working on my web application project: [Library Managemt System](https://github.com/typhooncode-library-administration) <br>
+- 🌱 I’m currently improving my skills in backend and frontend and by trying out different technologies to gain new insights and perspectives <br> <br> 
 
 ###
 
