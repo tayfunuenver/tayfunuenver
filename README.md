@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my web application project: [Library Managemt System](https://github.com/typhooncode-library-administration) <br>
-- 🌱 I’m currently improving my skills in backend and frontend and trying out different technologies to gain new insights and perspectives <br> <br> 
+- 🌱 I’m currently improving my skills in backend and frontend and by trying out different technologies to gain new insights and perspectives <br> <br> 
 
 ###
 
