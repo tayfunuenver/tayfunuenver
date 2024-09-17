@@ -89,3 +89,21 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/tayfunuenver/count.svg?"  />
 </div>
+
+## 📢 New Announcements (17.10.2024)
+
+I apologize for the recent lack of updates. The start of my part-time semester, alongside my full-time job, has required me to focus on organizational tasks like papers, presentations, and resits. This has affected the pace of my contributions.
+
+### 🚀 New Work Schedule
+
+Moving forward, I've committed to working on my GitHub projects at least three times a week (potentially more, depending on availability), even while balancing my full-time work and part-time studies. However, please note that maintaining the documentation might be delayed, as I will only be able to update it once a week, typically over the weekend, to reflect the current progress.
+
+To give a clearer overview, here’s my planned weekly work schedule showing which tasks will be tackled on specific days of the week, so you can have a better overview of the project's progress
+
+| **Day**        | **Task**                                      |
+|----------------|-----------------------------------------------|
+| Monday         | Core development tasks (review, testing, optimizations, and improvements) |
+| Wednesday      | Core development tasks (review, testing, optimizations, and improvements) |
+| Friday         | Core development tasks (review, testing, optimizations, and improvements) |
+| Saturday       | Documentation updates                         |
+| Sunday         | Planning for next week’s tasks                |
